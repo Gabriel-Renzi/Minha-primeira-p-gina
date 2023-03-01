@@ -1,0 +1,62 @@
+/* CSS Document */
+
+
+
+body{
+   background-color:black;
+   text-align: center;
+   font: size 32px;
+}
+
+#Deus{ 
+     background-color:#c00e0e;
+     width: 100%;
+}
+
+td{ align-items: center; 
+color: white;
+}
+
+/* tamanho da fonte h1*/
+h1{
+
+     font-size: 16 px; color:white;
+     text-align: center;
+
+}
+
+h2{
+     font-size: 22 px;
+}
+
+li{
+    font-size: 16px; color:grey 
+}
+
+main{ 
+     color: white 
+}
+
+tr td ul li a { 
+     color: white; 
+     justify-content: center;
+
+}
+
+a:hover {
+     background-color: black;
+     text-decoration: none;
+}
+
+li {
+     display: inline;
+}
+
+#God{
+     background-color:#c00e0e;
+     width: 100%;
+}
+
+footer{
+     font-size: 24px
+}
